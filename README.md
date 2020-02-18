@@ -1,2 +1,0 @@
-# vueSimpleBlog
-Created with CodeSandbox
